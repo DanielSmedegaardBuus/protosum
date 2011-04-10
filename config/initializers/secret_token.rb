@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Protosum::Application.config.secret_token = '4ece21950f94b8184cd1806da7de37fb5252c2faf89975c9414e4049ada17fc96fbf8798841405914fe3ccf51c524e2762cae4a1c13dec4362176c6379c520a9'
+Protosum::Application.config.secret_token = '507837a7baa9b2b038ec35810a763280ac7f18d7be5c08af3ccae3408d326ea6fc7e7a893c5dcf5c8607dab12577e5373cb78575cfb6f968bf2fb4bad3034984'
